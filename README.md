@@ -103,21 +103,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KOLAGANIGANESH&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KOLAGANIGANESH/KOLAGANIGANESH/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 # ⚡ Profile Summary
 
