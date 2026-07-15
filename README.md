@@ -1,13 +1,10 @@
-![Uploading image.png…]()
 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Generative+AI+Engineer;Building+LLM+Applications;RAG+%7C+AI+Agents+%7C+LangChain;Enterprise+AI+Solutions;Always+Learning+and+Innovating" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KOLAGANIGANESH&label=Profile+Views&color=00FFFF&style=for-the-badge" />
-</p>
+
 
 ---
 
