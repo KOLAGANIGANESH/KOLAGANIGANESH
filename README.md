@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,29&text=Kolagani%20Ganesh&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Generative%20AI%20Engineer%20|%20LLM%20Developer%20|%20RAG%20%26%20AI%20Agent%20Builder&descSize=18&descAlignY=58"/>
+![Uploading image.png…]()
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Generative+AI+Engineer;Building+LLM+Applications;RAG+%7C+AI+Agents+%7C+LangChain;Enterprise+AI+Solutions;Always+Learning+and+Innovating" />
